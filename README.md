@@ -26,11 +26,11 @@ Key Features
 3. Bike Sales Analysis (Excel)
 Overview
 
-This Excel-based project dives into the analysis of bike sales, encompassing sales trends, customer demographics, and product performance. Utilizing advanced Excel features, the project aims to uncover insights that could drive strategic business decisions for a bike retail company.
+Analyzed bike sales using Excel to uncover trends, customer demographics, and product performance. The project leverages PivotTables, charts, and formulas to provide actionable insights for a bike retail company.
 Key Features
 
-    Data Exploration: Employed Excel to conduct an initial exploration of the bike sales dataset, identifying key variables and preliminary insights.
-    Trend Analysis: Analyzed monthly and yearly sales trends to understand seasonal impacts on sales performance.
-    Customer Demographics: Investigated customer demographics, including age, gender, and buying preferences, to tailor marketing strategies effectively.
-    Product Performance: Evaluated individual product performance to identify best-sellers and underperforming products, providing recommendations for inventory management.
-    Visualization: Created dynamic charts and graphs to visualize sales trends, demographic insights, and product performance metrics, facilitating easy interpretation of data findings.
+    Data Exploration: Initial dataset review to identify key insights.
+    Trend Analysis: Evaluated sales patterns over time.
+    Customer Demographics: Analyzed buyer profiles to inform marketing.
+    Product Performance: Assessed sales by product for inventory decisions.
+    Visualization: Created charts for easy data interpretation.

@@ -1,1 +1,1 @@
-Welcome to my Data Analytics Portfolio. Here you will find my projects, demonstrating skills in SQL,Tableau, Power BI, and Excel.
+Welcome to my GitHub repository! This portfolio is a curated collection of my data analytics projects, demonstrating skills in SQL, PostgreSQL, Tableau, Power BI, and Excel. Each project is designed to showcase analytical techniques, data visualization, and insights derived from diverse datasets.

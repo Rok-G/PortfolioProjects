@@ -34,3 +34,33 @@ Key Features
     Customer Demographics: Analyzed buyer profiles to inform marketing.
     Product Performance: Assessed sales by product for inventory decisions.
     Visualization: Created charts for easy data interpretation.
+
+4. Data Professional Survey Breakdown (Power BI)
+Overview
+
+Power BI dashboard presenting a comprehensive breakdown of data professionals' survey results. The analysis reveals average salaries, popular programming languages, and levels of job satisfaction in the data industry.
+Key Features
+
+    Comparative salary analysis by job title.
+    Programming language preferences among data professionals.
+    Insights into job satisfaction correlating with salary and work-life balance.
+
+5. British Airways Review Analysis (Tableau)
+Overview
+
+A Tableau dashboard offering a detailed analysis of British Airways customer reviews. This visualization tracks service ratings across various categories, over time, and by aircraft.
+Key Features
+
+    Monitoring of customer service metrics over different time periods.
+    Analysis of customer feedback by aircraft type.
+    Geographical visualization of customer satisfaction data.
+
+6. King County House Sales Analysis (Tableau)
+Overview
+
+This project provides a Tableau visualization for analyzing house sales data in King County, Washington. It incorporates interactive filters to view patterns in sales prices, housing conditions, and other key metrics.
+Key Features
+
+    Trend analysis of daily house sales prices.
+    Heatmaps showing house condition vs. location.
+    Distribution analysis for house prices and bedroom count.

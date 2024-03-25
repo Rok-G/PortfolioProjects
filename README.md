@@ -1,13 +1,18 @@
-Welcome to my Data Analytics Portfolio. Here you will find my Excel, SQL, Power BI, Tableau (https://public.tableau.com/app/profile/rok.golez/vizzes) and Python projects.
-I am currently seeking an entry level Data Analyst or BI Analyst opportunity.
-Feel free to connect with me on Linkedin.
+Welcome to my GitHub repository! This portfolio is a curated collection of my data analytics projects, demonstrating skills in SQL, PostgreSQL, Tableau, Power BI, and Excel. Each project is designed to showcase analytical techniques, data visualization, and insights derived from diverse datasets.
 
-SQL_CovidProject
-Delves into the COVID-19 pandemic's data, focusing on case numbers, death tolls, and vaccination rates across various global locations. Utilizing data from the PortfolioProject..Deaths and PortfolioProject..Vaccinations tables, the analysis encompasses:
+SQL Projects
 
-    Calculation of mortality rates to gauge the lethality of the virus.
-    Assessment of infection penetration within populations.
-    Identification of regions with significant outbreaks and death tolls.
-    Detailed examination of vaccination trends over time.
+SQL Server Projects
+Project 1: COVID-19 Data Analysis
 
-Advanced SQL features such as Common Table Expressions (CTE), temporary tables, and views are employed to facilitate complex data manipulations and prepare the dataset for insightful analyses and visualizations.
+Overview: This project dives into COVID-19 statistics, exploring infection rates, mortality rates, and vaccination progress worldwide.
+    Skills Demonstrated: Advanced SQL queries, data manipulation, and analysis with SQL Server.
+    Key Outcomes: Developed an in-depth understanding of the pandemic's impact on different regions and the progress of vaccination efforts.
+
+SQL Projects
+SQL Server Projects
+Project 1: COVID-19 Data Analysis
+•	Overview: This project dives into COVID-19 statistics, exploring infection rates, mortality rates, and vaccination progress worldwide.
+•	Skills Demonstrated: Advanced SQL queries, data manipulation, and analysis with SQL Server.
+•	Key Outcomes: Developed an in-depth understanding of the pandemic's impact on different regions and the progress of vaccination efforts.
+
